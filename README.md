@@ -1,3 +1,3 @@
-# Emotion-Recognition-using-DEAPdataset
+# Emotion-Recognition-using-SEED-IV
 Emotion recognition using SEED-IV dataset
 
