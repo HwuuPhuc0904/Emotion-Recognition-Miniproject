@@ -1,2 +1,3 @@
 # Emotion-Recognition-using-DEAPdataset
-Emotion recognition using DEAP dataset with deep learning
+Emotion recognition using SEED-IV dataset
+
